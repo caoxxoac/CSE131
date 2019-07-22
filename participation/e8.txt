@@ -1,0 +1,13 @@
+I am your robotic CSE131 grader, and I provide the following report for your edification.
+Report prepared at Sun Nov 11 18:43:22 CST 2018
+To count, your work must have been done by 2018-11-10T12:00:00+00:00
+
+Exercise report:
+
+Counts?	Exercise
+Yes	Point.java
+No	UsingList.java
+No	UsingSet.java
+
+-------------
+Score:   33%
